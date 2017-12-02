@@ -1,3 +1,6 @@
+For more information and full documentation please referre to:
+https://sites.hevra.haifa.ac.il/rbd/2017/11/27/fruitninja/?lang=en
+
 Client:
 The code needs to run on c++ when opencv is installed, 
 and needs to be connected to the same wifi of the server running.
