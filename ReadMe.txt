@@ -1,4 +1,4 @@
-For more information and full documentation please referre to:
+For more information and full documentation please refere to:
 https://sites.hevra.haifa.ac.il/rbd/2017/11/27/fruitninja/?lang=en
 
 Client:
